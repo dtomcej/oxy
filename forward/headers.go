@@ -5,6 +5,7 @@ const (
 	XForwardedFor      = "X-Forwarded-For"
 	XForwardedHost     = "X-Forwarded-Host"
 	XForwardedServer   = "X-Forwarded-Server"
+	XForwardedPort		= "X-Forwarded-Port"
 	Connection         = "Connection"
 	KeepAlive          = "Keep-Alive"
 	ProxyAuthenticate  = "Proxy-Authenticate"
